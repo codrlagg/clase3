@@ -163,7 +163,3 @@ switch(menum){
             }
             break;
 }
-    // default:
-    //     console.log("Selección no válida");
-    //     alert("Selección no válida");
-    //     break;
